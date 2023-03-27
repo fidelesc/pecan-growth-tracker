@@ -13,7 +13,7 @@ The code is organized into three main parts:
 
 1. Training: Code used to train the deep learning models for matured pecans (big) and young pecans (small).
 2. pecan-mask-rcnn: Code for detecting pecan shell, shuck, and embryo based on the trained models.
-3. Models: Pre-trained models for matured and young pecans. Link: https://drive.google.com/file/d/1FIemGwcc8POSeFXm7VeBQN38uQ6jZh3i/view?usp=share_link
+3. Models: Pre-trained models for matured and young pecans. You can request a link to the models: lfidelescosta@ufl.edu
 
 ## Research
 This code was used for the following paper:
